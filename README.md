@@ -33,12 +33,7 @@
      <img src="./set-1/24.svg" height=150px>
      <img src="./set-1/25.svg" height=150px>
      <img src="./set-1/26.svg" height=150px>
-    <img src="./set-2/27.svg" height=150px>
-    <img src="./set-2/28.svg" height=150px>
-    <img src="./set-2/29.svg" height=150px>
-    <img src="./set-2/30.svg" height=150px>
-    <img src="./set-2/31.svg" height=150px>
-    <img src="./set-2/32.svg" height=150px>
+
 
     
   </p>
