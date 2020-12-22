@@ -48,5 +48,24 @@
      <img src="./set-2/02.svg" height=150px>
      <img src="./set-2/03.svg" height=150px>
      <img src="./set-2/04.svg" height=150px>
+    <img src="./set-2/05.svg" height=150px>
+    <img src="./set-2/06.svg" height=150px>
+    <img src="./set-2/07.svg" height=150px>
+    <img src="./set-2/08.svg" height=150px>
+    <img src="./set-2/09.svg" height=150px>
+    <img src="./set-2/10.svg" height=150px>
+    <img src="./set-2/11.svg" height=150px>
+    <img src="./set-2/12.svg" height=150px>
+    <img src="./set-2/13.svg" height=150px>
+    <img src="./set-2/14.svg" height=150px>
+    <img src="./set-2/15.svg" height=150px>
+    <img src="./set-2/16.svg" height=150px>
+    <img src="./set-2/17.svg" height=150px>
+    <img src="./set-2/18.svg" height=150px>
+    <img src="./set-2/19.svg" height=150px>
+    <img src="./set-2/20.svg" height=150px>
+    <img src="./set-2/21.svg" height=150px>
+    <img src="./set-2/22.svg" height=150px>
+    <img src="./set-2/23.svg" height=150px>
   </p>
   </div>
