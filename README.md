@@ -75,3 +75,5 @@
     <img src="./set-2/23.svg" height=150px>
   </p>
   </div>
+
+> original emojis by: https://www.flaticon.com/authors/freepik
