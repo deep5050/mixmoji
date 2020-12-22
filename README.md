@@ -1,7 +1,12 @@
 
-<div >
+<div>
   <h4 align=center> MIXMOJI</h2>
   <p align=center>Emojis with mixed emotions </p>
+  </div>
+  
+  ### SET 1
+  
+  <div>
   <p align=center>
     <img src="./set-1/1.svg" height=150px>
      <img src="./set-1/2.svg" height=150px>
@@ -30,5 +35,18 @@
      <img src="./set-1/26.svg" height=150px>
 
     
+  </p>
+  </div>
+
+
+### SET 2
+
+ 
+  <div>
+  <p align=center>
+    <img src="./set-2/01.svg" height=150px>
+     <img src="./set-2/02.svg" height=150px>
+     <img src="./set-2/03.svg" height=150px>
+     <img src="./set-2/04.svg" height=150px>
   </p>
   </div>
