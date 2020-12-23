@@ -104,6 +104,6 @@
   </div>
 
 
-> I am not a designer, this emojis may not be pixel perfect :)
+> I am not a designer, these emojis may not be pixel perfect :)
 
 > original emojis by: https://www.flaticon.com/authors/freepik
