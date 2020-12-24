@@ -104,6 +104,36 @@
   </div>
 
 
+### SET-3
+
+<div align=center>
+  <p align=center>
+    <img src="/set-3/57.svg" height=50px >
+<img src="/set-3/58.svg" height=50px >
+<img src="/set-3/59.svg" height=50px >
+<img src="/set-3/60.svg" height=50px >
+<img src="/set-3/61.svg" height=50px >
+<img src="/set-3/62.svg" height=50px >
+<img src="/set-3/63.svg" height=50px >
+<img src="/set-3/64.svg" height=50px >
+<img src="/set-3/65.svg" height=50px >
+<img src="/set-3/66.svg" height=50px >
+<img src="/set-3/67.svg" height=50px >
+<img src="/set-3/68.svg" height=50px >
+<img src="/set-3/69.svg" height=50px >
+<img src="/set-3/70.svg" height=50px >
+<img src="/set-3/71.svg" height=50px >
+<img src="/set-3/72.svg" height=50px >
+<img src="/set-3/73.svg" height=50px >
+<img src="/set-3/74.svg" height=50px >
+<img src="/set-3/75.svg" height=50px >
+<img src="/set-3/76.svg" height=50px >
+<img src="/set-3/77.svg" height=50px >
+<img src="/set-3/78.svg" height=50px >
+<img src="/set-3/79.svg" height=50px >
+    </p>
+  </div>
+
 > I am not a designer, these emojis may not be pixel perfect :)
 
 > original emojis by: https://www.flaticon.com/authors/freepik
